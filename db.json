@@ -1,0 +1,56 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "title": "html",
+      "body": "html is ...~~"
+    },
+    {
+      "id": 2,
+      "title": "css",
+      "body": "css is ...~~"
+    },
+    {
+      "title": "zzz",
+      "body": "zzz",
+      "id": 3
+    },
+    {
+      "title": "zzz",
+      "body": "zzzz",
+      "id": 4
+    },
+    {
+      "title": "1122",
+      "body": "1122",
+      "id": 5
+    },
+    {
+      "title": "33",
+      "body": "33",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "html111",
+      "body": "html111 is ...~~"
+    },
+    {
+      "id": 2,
+      "title": "css111",
+      "body": "css 111is ...~~"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
